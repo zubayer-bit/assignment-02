@@ -98,25 +98,32 @@ input[type='email']{
   header{
     
    justify-items: center;
-        margin: 10px auto 0px auto;
+        /* margin: 10px auto 0px auto; */
         width: 100%;
         
     
     }
 
-  nav{
-    width: 100%;
+  nav {
+    /* width: 100%; */
     justify-items: center;
     
-    padding: 0px 6px 0px 6px;
-  }
+    }
     
   .home, .shop, .about{
     visibility: hidden;
   }
  
+/* .navbar{
+  background-color: blueviolet;
+  margin-right: -17px;
+} */
+.cart{
+  
 
-
+width: 120px;
+margin-left: -55px;
+}
   /* always fresh flower */
   .always-fresh{
     width: 100%;
@@ -282,13 +289,9 @@ input[type='email']{
   }
   /* Join the colorful Bunch */
   
-  .join-section{
-    /* background-color: brown; */
-    
-  }
-  .Join{
-    
-    padding: ;
+  
+  .Join {
+
     justify-items: center;
     margin-top: -87px;
     margin-bottom: 0px;
