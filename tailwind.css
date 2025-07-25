@@ -281,6 +281,7 @@ input[type='email']{
     font-size: 1rem;
   }
   /* Join the colorful Bunch */
+  
   .join-section{
     /* background-color: brown; */
     
@@ -302,7 +303,7 @@ input[type='email']{
  .join-title{
   width: 235px;
   font-size: 1.25rem;
-  margin-right: 78px;
+  margin-right: -39px;
  }
 
 .info{
